@@ -12,6 +12,11 @@
   ###### DON'T FORGET TO UPDATE THE User_Setup.h FILE IN THE LIBRARY ######
   ######           TO SELECT THE FONTS AND PINS YOU USE              ######
   #########################################################################
+
+  to-do:
+  add more info like forecast from web
+  add a clock
+  
  */
 
 #include <SPI.h>
