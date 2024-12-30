@@ -14,6 +14,7 @@
   #########################################################################
 
   to-do:
+  start doing
   add more info like forecast from web
   add a clock
   make the data available online
